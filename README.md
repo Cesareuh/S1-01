@@ -6,3 +6,5 @@ Le premier problème à régler avant de commencer à travailler sur le projet �
 Nous avons rencontré plusieurs problèmes dans ce projet qui nous obligeaient à revoir notre façon de penser et d'optimiser notre projet.
 
 Finalement nous avons terminé le projet avant la fin du temps imparti et nous avons pu apprendre beaucoup de choses sur le travail en groupe et l'implémentation des tableaux en java.
+
+Lire le [rapport](https://github.com/Cesareuh/S1-01/blob/main/Rapport_Graff_Martin-Villepou.pdf)
